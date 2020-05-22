@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2015
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xivModdingFramework", "xivModdingFramework\xivModdingFramework.csproj", "{83A720A7-A039-4FE3-BE65-95146CF5C6F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xivModdingFramework.xUnit", "xivModdingFramework.xUnit\xivModdingFramework.xUnit.csproj", "{4214BC4D-2FAD-4C9A-9F60-06A3EB22820D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exChecker", "exChecker\exChecker.csproj", "{D174095D-1B25-471A-B443-83D69E0A3173}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xivModdingFramework.Test", "xivModdingFramework.Test\xivModdingFramework.Test.csproj", "{BB4B654B-5440-4411-A7D2-0EDD65462516}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D174095D-1B25-471A-B443-83D69E0A3173}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D174095D-1B25-471A-B443-83D69E0A3173}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D174095D-1B25-471A-B443-83D69E0A3173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4B654B-5440-4411-A7D2-0EDD65462516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4B654B-5440-4411-A7D2-0EDD65462516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4B654B-5440-4411-A7D2-0EDD65462516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4B654B-5440-4411-A7D2-0EDD65462516}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
